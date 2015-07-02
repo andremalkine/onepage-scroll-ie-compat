@@ -1,10 +1,10 @@
 {
-  "name": "onepage-scroll",
-  "version": "1.3.1",
+  "name": "onepage-scroll-ie-compat",
+  "version": "1.3.4",
   "author": "Pete R",
   "main": [
-    "jquery.onepage-scroll.js",
-    "onepage-scroll.css"
+    "jquery.onepage-scroll-ie-compat.js",
+    "onepage-scroll-ie-compat.css"
   ],
   "ignore": [
     "Demo",
